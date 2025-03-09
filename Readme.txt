@@ -1,3 +1,6 @@
+This repository is an implementation of gradient descent from scratch. Gradient descent solution is compared with least squares solution. Ridge regression is also implemented and the solution obtained compared with the gradient descent solution and least squares solution.
+
+
 Instructions to run the code:
 
 1. All the source code for all the algortihms and functions are kept in separate .py files. All these .py files should be maintained in the same directory.
